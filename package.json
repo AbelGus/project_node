@@ -1,0 +1,11 @@
+{
+    "name": "image_node",
+    "version": "1.0.0",
+    "description": "Proyecto que calcula la suma de dos números usando Node.js",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {}
+  }
+  
